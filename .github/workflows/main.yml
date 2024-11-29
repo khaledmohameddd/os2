@@ -1,10 +1,7 @@
 on:
   push:
-   branches:
-     - master
-
-
-
+    branches:
+      - master
 
 jobs:
   build:
@@ -14,8 +11,8 @@ jobs:
       - name: 'Before'
         run: ls
 
-        - uses: actions/checkout@v3
-  
-         name: 'After'
+      - uses: actions/checkout@v3
+        name: 'Checkout Repository'
+
+      - name: 'After'
         run: ls
-           
