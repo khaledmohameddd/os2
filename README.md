@@ -1,9 +1,5 @@
 <<<<<<< HEAD
-<<<<<<< HEAD
-"# os" 
+# your local changes here
 =======
-"# os" 
->>>>>>> d74341652cbf2cd03e4b6d794a66d1bc70f497a2
-=======
-"# os2" 
->>>>>>> 0dba9f6c614f55cd906f8008a0597f9a3c0e3e58
+# the changes from the remote repository here
+>>>>>>> origin/main
